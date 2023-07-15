@@ -1,2 +1,3 @@
 # Restaurant-Billing-System
-Python project created using Tkinter for billing in restaurant.
+A Python project for billing in restaurant.
+Based on the restaurant billing system, a simple project was created using Python and the Tkinter toolkit for the GUI.
